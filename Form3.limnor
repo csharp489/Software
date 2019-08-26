@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="DrawingPage" objectID="1" ClassID="2745311145" designMode="True" name="Form3" guid="cae6dae9-23a7-4040-80e5-389b3d72aa15" width0="739" width1="41" width2="79" filename="C:\Users\rishabh\OneDrive\Desktop\application\projectsoftware\Form3.limnor">
+  <Actions>
+    <Action ActionId="3813684139" name="MessageBox.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+            <Item type="string" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="DialogResult" />
+          </Property>
+          <Property name="MethodID">558818625</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="DataTypePointer">
+            <Data>
+              <Type type="TypePointer">
+                <Property name="ClassType">
+                  <LibType type="MessageBox" />
+                </Property>
+              </Type>
+            </Data>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">3813684139</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="30058349" valueType="Property">
+          <Value type="ClassPointer" ClassID="2745311145" objectID="1" BaseClassId="0" />
+        </Item>
+        <Item type="ParameterValue" name="text" valueId="2089687" valueType="ConstantValue">
+          <Value valueId="1338858795">
+            <Data>DIMENSIONS ADDED SUCCESSFULLY</Data>
+          </Value>
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+  </Actions>
+  <EventPath width="704" height="692" type="EventPathData">
+    <Property name="ComponentIconList">
+      <Item type="ComponentIconEvent" ClassID="2745311145" objectID="1">
+        <Location>20, 20</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2745311145" objectID="2">
+        <Location>99, 46</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2745311145" objectID="3">
+        <Location>78, 119</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2745311145" objectID="4">
+        <Location>57, 112</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2745311145" objectID="5">
+        <Location>43, 93</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">5</Property>
+                  <Property name="ClassId">2745311145</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutTypeAction" portId="246107498" instanceId="3682901333" relX="-5" relY="6">
+                <Location type="Point">28, 107</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="3255549127">1635634198</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">48, 127</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+                <OwnerType type="MessageBox" />
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2745311145" objectID="6">
+        <Location>48, 57</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconClassType" ClassID="0" objectID="1854099297">
+        <Location>176, 329</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="1635634198" instanceId="3255549127" relX="-19" relY="2">
+            <Location type="Point">195, 327</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="3682901333">246107498</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">175, 307</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">5</Property>
+                  <Property name="ClassId">2745311145</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+        <Type type="MessageBox" />
+      </Item>
+    </Property>
+  </EventPath>
+  <Types>
+    <Item fullTypeName="System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="ComboBox" />
+    <Item fullTypeName="System.Windows.Forms.IWin32Window, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="IWin32Window" />
+    <Item fullTypeName="System.Windows.Forms.DialogResult, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="DialogResult" />
+  </Types>
+  <HandlerList>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">5</Property>
+              <Property name="ClassId">2745311145</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">3049785201</Property>
+          <Property name="ClassId">2745311145</Property>
+          <Property name="ActionId">3813684139</Property>
+        </Item>
+      </Property>
+    </Handler>
+  </HandlerList>
+  <Property name="DrawingLayerList">
+    <Item type="DrawingLayerHeader">
+      <Property name="LayerId">b6402af3-a276-4aa4-bc2d-51e26763cc8b</Property>
+      <Property name="Name">Layer1</Property>
+    </Item>
+  </Property>
+  <Property name="ClientSize">448, 369</Property>
+  <Property name="Text">Form3</Property>
+  <Property name="AutoScaleDimensions">6, 13</Property>
+  <Property name="Name">Form3</Property>
+  <Property name="PageAttributes">
+    <Property name="ShowPrintPageEdges">False</Property>
+    <Property name="PrinterDPI_X">96</Property>
+    <Property name="PrinterDPI_Y">96</Property>
+    <Property name="Width">210</Property>
+    <Property name="Height">297</Property>
+  </Property>
+  <Property name="Controls">
+    <Item type="ComboBox" objectID="2" designMode="True" name="ComboBoxCHOOSE">
+      <Property name="Text">CHOOSE THE DIMENSIONS YOU WANT</Property>
+      <Property name="FormattingEnabled">True</Property>
+      <Property name="Location">97, 108</Property>
+      <Property name="Name">ComboBoxCHOOSE</Property>
+      <Property name="Size">233, 21</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Items">
+        <Item type="string">1-3 INCHES</Item>
+        <Item type="string">3-6 INCHES</Item>
+        <Item type="string">6-9 INCHES</Item>
+        <Item type="string">9-12 INCHES</Item>
+        <Item type="string">12-36 INCHES</Item>
+        <Item type="string">36-48 INCHES</Item>
+        <Item type="string">OTHER</Item>
+      </Property>
+    </Item>
+    <Item type="Label" objectID="3" designMode="True" name="LabelHEAD">
+      <Property name="Text">DIMENSIONS OF GLASS</Property>
+      <Property name="Font">Algerian, 12pt, style=Bold</Property>
+      <Property name="Location">114, 52</Property>
+      <Property name="Name">LabelHEAD</Property>
+      <Property name="Size">204, 23</Property>
+      <Property name="TabIndex">1</Property>
+    </Item>
+    <Item type="Label" objectID="4" designMode="True" name="LabeLOTHER">
+      <Property name="Text">IF OTHER THEN THAT..</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="Location">12, 160</Property>
+      <Property name="Name">LabeLOTHER</Property>
+      <Property name="Size">197, 23</Property>
+      <Property name="TabIndex">2</Property>
+    </Item>
+    <Item type="Button" objectID="5" designMode="True" name="BTNSUBMIT">
+      <Property name="Text">SUBMIT</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="Location">150, 224</Property>
+      <Property name="Name">BTNSUBMIT</Property>
+      <Property name="Size">119, 38</Property>
+      <Property name="TabIndex">3</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+    <Item type="TextBox" objectID="6" designMode="True" name="TextBoxOTHER">
+      <Property name="Location">255, 161</Property>
+      <Property name="Name">TextBoxOTHER</Property>
+      <Property name="Size">127, 20</Property>
+      <Property name="TabIndex">4</Property>
+    </Item>
+  </Property>
+  <External type="TypePointerCollection">
+    <Type type="MessageBox" />
+  </External>
+</Root>

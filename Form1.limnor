@@ -1,0 +1,980 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root type="DrawingPage" objectID="1" ClassID="2" designMode="True" name="formhome" guid="1c4dd5bd-28a7-42f2-85e6-5b69265bbbd5" width0="519" width1="96" width2="79" filename="C:\Users\rishabh\OneDrive\Desktop\application\projectsoftware\Form1.limnor">
+  <Actions>
+    <Action ActionId="2615894175" name="DefUserLogin.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">878144884</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefUserLogin" instanceId="0" ClassID="846243786" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">2615894175</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="49957660" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="1105433029" name="DefchangePassword.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">715197445</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefchangePassword" instanceId="0" ClassID="1890583181" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">1105433029</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="49957660" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="1342514702" name="DefCreateNewUser.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">3518973531</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefCreateNewUser" instanceId="0" ClassID="4137998753" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">1342514702</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="49957660" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="2790170951" name="DefCreateResetCode.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">3669570838</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefCreateResetCode" instanceId="0" ClassID="1107962030" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">2790170951</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="49957660" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="3538466942" name="DefForm2.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">952111838</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefForm2" instanceId="0" ClassID="3135665091" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">3538466942</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="49957660" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="2156739503" name="DefForm3.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">3057931191</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefForm3" instanceId="0" ClassID="2745311145" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">2156739503</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="49957660" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="4057189939" name="DefResetPassword.Show3" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">529861944</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefResetPassword" instanceId="0" ClassID="561202561" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">4057189939</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="11832897" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="1805598000" name="DefForm2.Show2" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">1737316712</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefForm2" instanceId="0" ClassID="3135665091" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">1805598000</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="11832897" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+    <Action ActionId="2410684311" name="DefResetPassword.Show" type="ActionClass">
+      <Property name="ActionMethod">
+        <ObjProperty type="MethodInfoPointer">
+          <Property name="ParameterTypes">
+            <Item type="IWin32Window" isType="True" />
+          </Property>
+          <Property name="ReturnType2">
+            <LibType type="void" />
+          </Property>
+          <Property name="MethodID">529861944</Property>
+          <Property name="MemberName">Show</Property>
+          <Property name="Owner" type="ClassInstancePointer">
+            <Data name="DefResetPassword" instanceId="0" ClassID="561202561" />
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="SubScopeId">0</Property>
+      <Property name="ActionId">2410684311</Property>
+      <Property name="ScopeRunAt">Unknown</Property>
+      <Property name="AsLocal">False</Property>
+      <Property name="ParameterValues">
+        <Item type="ParameterValue" name="owner" valueId="11832897" valueType="Property">
+          <Value type="ClassPointer" ClassID="2" objectID="1" BaseClassId="0" />
+        </Item>
+      </Property>
+      <Property name="ActionCondition" type="ExpressionValue">
+        <Data hasData="False" />
+      </Property>
+    </Action>
+  </Actions>
+  <EventPath type="EventPathData" width="704" height="692">
+    <Property name="ComponentIconList">
+      <Item type="ComponentIconEvent" ClassID="2" objectID="1">
+        <Location>36, 421</Location>
+        <RelativePosition type="Point" xTo0="False" yTo0="True">11, 4</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="2">
+        <Location>155, 361</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="3">
+        <Location>232, 373</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-23, 16</RelativePosition>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="4">
+        <Location>54, 193</Location>
+        <RelativePosition type="Point" xTo0="False" yTo0="True">5, 9</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="False">0, 15</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">4</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="False">-21, 14</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutClassTypeAction" portId="3313365086" instanceId="3241986089" relX="-19" relY="-6" ownerClassId="1890583181">
+                <Location type="Point">60, 201</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="982769571">801327586</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">72, 253</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="5">
+        <Location>61, 137</Location>
+        <RelativePosition type="Point" xTo0="False" yTo0="True">5, 12</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">5</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="False">-17, 2</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutClassTypeAction" portId="3678113230" instanceId="2545595452" relX="-19" relY="-3" ownerClassId="4137998753">
+                <Location type="Point">63, 162</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="923169290">3883500727</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">83, 182</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="6">
+        <Location>62, 316</Location>
+        <RelativePosition type="Point" xTo0="False" yTo0="True">4, -3</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="False">0, 2</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">6</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutClassTypeAction" portId="1642857810" instanceId="3863736880" relX="-19" relY="-3" ownerClassId="1107962030">
+                <Location type="Point">61, 339</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="3860591601">3750068905</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">81, 359</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="7">
+        <Location>127, 91</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="False">15, 2</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">7</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-15, 20</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutClassTypeAction" portId="4047759389" instanceId="610850132" relX="-13" relY="-15" ownerClassId="561202561">
+                <Location type="Point">125, 126</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="662279373">1164448318</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">145, 146</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="8">
+        <Location>68, 0</Location>
+        <RelativePosition type="Point" xTo0="False" yTo0="True">13, -3</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="False">-20, 4</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">8</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-10, 13</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutClassTypeAction" portId="1408213363" instanceId="1220638256" relX="-19" relY="-5" ownerClassId="2745311145">
+                <Location type="Point">95, 53</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="3074271366">1875376444</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">97, 38</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="9">
+        <Location>49, 267</Location>
+        <RelativePosition type="Point" xTo0="False" yTo0="True">4, 6</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="False">-9, 4</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">9</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="False">-5, 2</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutClassTypeAction" portId="2879912483" instanceId="4256400281" relX="-19" relY="-6" ownerClassId="846243786">
+                <Location type="Point">63, 234</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="1208118158">602355612</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">83, 315</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+      <Item type="ComponentIconClass" ClassID="846243786" objectID="1">
+        <Location>235, 281</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="False">-17, 2</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="602355612" instanceId="1208118158" relX="15" relY="-7">
+            <Location type="Point">213, 257</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="4256400281">2879912483</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">200, 268</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">9</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+      </Item>
+      <Item type="ComponentIconClass" ClassID="1890583181" objectID="1">
+        <Location>246, 220</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="False">-26, 5</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="801327586" instanceId="982769571" relX="15" relY="-5">
+            <Location type="Point">262, 200</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="3241986089">3313365086</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">211, 205</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">4</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+      </Item>
+      <Item type="ComponentIconClass" ClassID="4137998753" objectID="1">
+        <Location>215, 156</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="False">-25, 5</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="3883500727" instanceId="923169290" relX="15" relY="-5">
+            <Location type="Point">186, 110</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="2545595452">3678113230</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">180, 141</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">5</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+      </Item>
+      <Item type="ComponentIconClass" ClassID="1107962030" objectID="1">
+        <Location>234, 325</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="False">-17, 6</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="3750068905" instanceId="3860591601" relX="14" relY="-10">
+            <Location type="Point">220, 335</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="3863736880">1642857810</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">200, 315</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">6</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+      </Item>
+      <Item type="ComponentIconClass" ClassID="3135665091" objectID="1">
+        <Location>174, 62</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-20, 20</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="2376459966" instanceId="3164537504" relX="15" relY="-3">
+            <Location type="Point">159, 65</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="3966773287">1593853652</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">139, 45</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">10</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+      </Item>
+      <Item type="ComponentIconClass" ClassID="2745311145" objectID="1">
+        <Location>237, 20</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="True">-9, 20</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="1875376444" instanceId="3074271366" relX="15" relY="-9">
+            <Location type="Point">229, 61</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="1220638256">1408213363</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">202, 9</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">8</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+      </Item>
+      <Item type="ComponentIconClass" ClassID="561202561" objectID="1">
+        <Location>259, 115</Location>
+        <RelativePosition type="Point" xTo0="True" yTo0="False">-17, 5</RelativePosition>
+        <TargetPorts>
+          <Item type="EventPortIn" portId="1164448318" instanceId="662279373" relX="15" relY="-9">
+            <Location type="Point">244, 124</Location>
+            <PositionType type="enumPositionType">Circle</PositionType>
+            <Position>0</Position>
+            <LinkedPortID linkedPortIndex="610850132">4047759389</LinkedPortID>
+            <Label type="DrawingVariable">
+              <Location type="Point">224, 104</Location>
+              <Size type="Size">20, 20</Size>
+              <RelativePosition type="Point" xTo0="True" yTo0="True">-20, -20</RelativePosition>
+              <LabelVisible type="bool">False</LabelVisible>
+            </Label>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">7</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+          </Item>
+        </TargetPorts>
+      </Item>
+      <Item type="ComponentIconEvent" ClassID="2" objectID="10">
+        <Location>73, 44</Location>
+        <RelativePosition type="Point" xTo0="False" yTo0="True">3, 1</RelativePosition>
+        <Events>
+          <Item>
+            <RelativePosition type="Point" xTo0="True" yTo0="True">-37, 2</RelativePosition>
+            <Event type="EventPointer">
+              <Property name="MemberName">Click</Property>
+              <Property name="Owner">
+                <ObjProperty type="MemberComponentId">
+                  <Property name="MemberId">10</Property>
+                  <Property name="ClassId">2</Property>
+                </ObjProperty>
+              </Property>
+            </Event>
+            <Position>
+              <RelativePosition type="Point" xTo0="True" yTo0="False">-22, 11</RelativePosition>
+            </Position>
+            <OutPorts>
+              <Item type="EventPortOutClassTypeAction" portId="1593853652" instanceId="3966773287" relX="-18" relY="4" ownerClassId="3135665091">
+                <Location type="Point">69, 71</Location>
+                <PositionType type="enumPositionType">Circle</PositionType>
+                <Position>0</Position>
+                <LinkedPortID linkedPortIndex="3164537504">2376459966</LinkedPortID>
+                <Label type="DrawingVariable">
+                  <Location type="Point">89, 91</Location>
+                  <Size type="Size">20, 20</Size>
+                  <RelativePosition type="Point" xTo0="True" yTo0="True">20, 20</RelativePosition>
+                  <LabelVisible type="bool">False</LabelVisible>
+                </Label>
+              </Item>
+            </OutPorts>
+          </Item>
+        </Events>
+      </Item>
+    </Property>
+  </EventPath>
+  <Types>
+    <Item fullTypeName="System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="PictureBox" />
+    <Item fullTypeName="System.Windows.Forms.IWin32Window, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="IWin32Window" />
+  </Types>
+  <HandlerList>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">9</Property>
+              <Property name="ClassId">2</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">1706156722</Property>
+          <Property name="ClassId">2</Property>
+          <Property name="ActionId">2615894175</Property>
+        </Item>
+      </Property>
+    </Handler>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">4</Property>
+              <Property name="ClassId">2</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">4022807907</Property>
+          <Property name="ClassId">2</Property>
+          <Property name="ActionId">1105433029</Property>
+        </Item>
+      </Property>
+    </Handler>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">5</Property>
+              <Property name="ClassId">2</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">155589891</Property>
+          <Property name="ClassId">2</Property>
+          <Property name="ActionId">1342514702</Property>
+        </Item>
+      </Property>
+    </Handler>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">6</Property>
+              <Property name="ClassId">2</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">314800423</Property>
+          <Property name="ClassId">2</Property>
+          <Property name="ActionId">2790170951</Property>
+        </Item>
+      </Property>
+    </Handler>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">8</Property>
+              <Property name="ClassId">2</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">235302083</Property>
+          <Property name="ClassId">2</Property>
+          <Property name="ActionId">2156739503</Property>
+        </Item>
+      </Property>
+    </Handler>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">10</Property>
+              <Property name="ClassId">2</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">2413083566</Property>
+          <Property name="ClassId">2</Property>
+          <Property name="ActionId">1805598000</Property>
+        </Item>
+      </Property>
+    </Handler>
+    <Handler type="EventAction">
+      <Property name="Event">
+        <ObjProperty type="EventPointer">
+          <Property name="MemberName">Click</Property>
+          <Property name="Owner">
+            <ObjProperty type="MemberComponentId">
+              <Property name="MemberId">7</Property>
+              <Property name="ClassId">2</Property>
+            </ObjProperty>
+          </Property>
+        </ObjProperty>
+      </Property>
+      <Property name="TaskIDList">
+        <Item type="TaskID">
+          <Property name="TaskId">3398990975</Property>
+          <Property name="ClassId">2</Property>
+          <Property name="ActionId">2410684311</Property>
+        </Item>
+      </Property>
+    </Handler>
+  </HandlerList>
+  <Property name="DrawingLayerList">
+    <Item type="DrawingLayerHeader">
+      <Property name="LayerId">310f3a3a-9520-4122-87e4-9915e195c2b9</Property>
+      <Property name="Name">Layer1</Property>
+    </Item>
+  </Property>
+  <Property name="ClientSize">469, 387</Property>
+  <Property name="Text">Main form</Property>
+  <Property name="AutoScaleDimensions">6, 13</Property>
+  <Property name="Name">formhome</Property>
+  <Property name="PageAttributes">
+    <Property name="ShowPrintPageEdges">False</Property>
+    <Property name="PrinterDPI_X">96</Property>
+    <Property name="PrinterDPI_Y">96</Property>
+    <Property name="Width">210</Property>
+    <Property name="Height">297</Property>
+  </Property>
+  <Property name="Controls">
+    <Item type="Label" objectID="2" designMode="True" name="LABELHEAD">
+      <Property name="Text">PERMISSION CONTROL SAMPLE</Property>
+      <Property name="Font">Algerian, 12pt, style=Bold, Italic</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">67, 33</Property>
+      <Property name="Name">LABELHEAD</Property>
+      <Property name="Size">262, 23</Property>
+      <Property name="TabIndex">0</Property>
+    </Item>
+    <Item type="PictureBox" objectID="3" designMode="True" name="PictureBox1">
+      <Property name="Image">
+        <Binary resId="2cacc612-c0a2-49fa-899e-c5e506fc7429" />
+      </Property>
+      <Property name="TabStop">False</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="Location">139, 59</Property>
+      <Property name="Name">PictureBox1</Property>
+      <Property name="Size">100, 50</Property>
+    </Item>
+    <Item type="Button" objectID="4" designMode="True" name="BTNCHPASS">
+      <Property name="Text">CHANGE PASSWORD</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">248, 146</Property>
+      <Property name="Name">BTNCHPASS</Property>
+      <Property name="Size">209, 26</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+    <Item type="Button" objectID="5" designMode="True" name="BTNNEWUSER">
+      <Property name="Text">CREATE NEW USER</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">12, 202</Property>
+      <Property name="Name">BTNNEWUSER</Property>
+      <Property name="Size">209, 26</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+    <Item type="Button" objectID="6" designMode="True" name="BTNRESETCODE">
+      <Property name="Text">CREATE RESET CODE</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">248, 202</Property>
+      <Property name="Name">BTNRESETCODE</Property>
+      <Property name="Size">209, 26</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+    <Item type="Button" objectID="7" designMode="True" name="BTNRESETPASS">
+      <Property name="Text">RESET PASSWORD</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">139, 324</Property>
+      <Property name="Name">BTNRESETPASS</Property>
+      <Property name="Size">209, 26</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+    <Item type="Button" objectID="8" designMode="True" name="BTNFORM3">
+      <Property name="Text">FORM3</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">248, 268</Property>
+      <Property name="Name">BTNFORM3</Property>
+      <Property name="Size">209, 26</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+    <Item type="Button" objectID="9" designMode="True" name="BTNUSERADMIN">
+      <Property name="Text">USER LOGIN</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">12, 146</Property>
+      <Property name="Name">BTNUSERADMIN</Property>
+      <Property name="Size">209, 26</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+    <Item type="Button" objectID="10" designMode="True" name="BTNFORM2">
+      <Property name="Text">FORM2</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 11.25pt, style=Bold</Property>
+      <Property name="ForeColor">Navy</Property>
+      <Property name="Location">12, 268</Property>
+      <Property name="Name">BTNFORM2</Property>
+      <Property name="Size">209, 26</Property>
+      <Property name="TabIndex">3</Property>
+      <Property name="FlatAppearance" />
+    </Item>
+  </Property>
+  <External type="TypePointerCollection">
+    <Type type="MessageBox" />
+  </External>
+</Root>
